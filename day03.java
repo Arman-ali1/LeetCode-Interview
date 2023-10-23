@@ -25,6 +25,6 @@ class Solution {
 
 // ============
 
-// #daily challenge
+// daily challenge
 
 // 03/100;
