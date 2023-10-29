@@ -1,0 +1,4 @@
+125
+final=cleanup co0de of programm
+throw--exiplicitly generate exeption
+throws--it is part of method signature
